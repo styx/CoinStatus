@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="left_margin">10dp</dimen>
+    <dimen name="descr_label_size">120dp</dimen>
+</resources>
